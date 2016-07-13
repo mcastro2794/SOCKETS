@@ -1,3 +1,3 @@
 # SOCKETS
 WebSockets
-eewrwer
+Ejemplo de como realizar websockets
